@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=IBM+Plex+Sans+Thai+Looped:wght@300&family=Prompt:ital@1&display=swap');
+
+body {
+    background-color: black;
+    font-family:  'Fjalla One', sans-serif;
+    margin: 0;
+}
+
+p {
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0;
+    height: 70px;
+    width: 200px;
+    font-size: 50px
+}
